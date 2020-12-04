@@ -14,9 +14,9 @@ Description:
 The motivation for this project is to meet the challenges of a would-be employer and their functional/technical requirements.  I'm still learning about semantic html and related concepts, so this is a great opportunity to flex those chops and get my feet wet with some code changes.  
 
 The link to the deployed application can be found here:
-
+https://ashadria1.github.io/horiseon-project/
 
 Some of the challenges I faced include analyzing HTML structure for optimal configuration, determining the optimal amount of formatting and indentations, lack of familiarity with accessibility devices such as screen readers- and how to optimize sites for them, different methods of consolidating classes in the stylesheet, etc.  My classmates helped out with some trouble spots via comments in Slack, as well as w3schools.com, and, of course Google.
 
-Features I hope to implement in the future include reclassing benefits, improved logical structure...
+Features I hope to implement in the future include reclassing benefits, improved logical structure, patience, time management, and sushi...
 
