@@ -16,7 +16,7 @@ The motivation for this project is to meet the challenges of a would-be employer
 The link to the deployed application can be found here:
 
 
-Some of the challenges I faced include analyzing HTML structure for optimal configuration, determining what is the optimal amount of formatting and indentations, lack of familiarity with accessibility devices such as screen readers- and how to optimize sites for them, different methods of consolidating classes in the stylesheet, etc.
+Some of the challenges I faced include analyzing HTML structure for optimal configuration, determining the optimal amount of formatting and indentations, lack of familiarity with accessibility devices such as screen readers- and how to optimize sites for them, different methods of consolidating classes in the stylesheet, etc.  My classmates helped out with some trouble spots via comments in Slack, as well as w3schools.com, and, of course Google.
 
-Features I hope to implement in the future include reclassing benefits...
+Features I hope to implement in the future include reclassing benefits, improved logical structure...
 
