@@ -11,11 +11,12 @@ Description:
     5.	When the title element is viewed, a concise, descriptive title is found.
 
 
-The motivation for this project is to meet the challenges of a would-be employer and their functional/technical requirements.  I'm still learning about semantic html, so this is a great opportunity to flex those chops.  
+The motivation for this project is to meet the challenges of a would-be employer and their functional/technical requirements.  I'm still learning about semantic html and related concepts, so this is a great opportunity to flex those chops and get my feet wet with some code changes.  
 
 The link to the deployed application can be found here:
 
-Some of the challenges I faced include...
 
-Features I hope to implement in the future...
+Some of the challenges I faced include analyzing HTML structure for optimal configuration, determining what is the optimal amount of formatting and indentations, lack of familiarity with accessibility devices such as screen readers- and how to optimize sites for them, different methods of consolidating classes in the stylesheet, etc.
+
+Features I hope to implement in the future include reclassing benefits...
 
